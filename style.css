@@ -1,0 +1,32 @@
+body {
+    font-family: Arial;
+}
+#head{
+    background: beige;
+    height: 300px;
+    width: 100%;
+    margin: 5px;
+}
+
+#head-auto{
+    background: beige;
+    height: 80px;
+    width: 100%;
+    margin: 5px;
+    float: left;
+}
+
+#right{
+    background: beige;
+    height: 400px;
+    width: 25%;
+    margin: 5px;
+    float: left;
+}
+#left{
+    background: beige;
+    height: 70px;
+    width: 100%;
+    margin: 5px;
+    float: left;
+}
